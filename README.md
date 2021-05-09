@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jordan
 - 👀 I’m interested in learning more! 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning SQL
 - 📫 You can reach me at Jordan.patterson99@gmail.com
 
 <!---
